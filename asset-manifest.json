@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/copia22/static/css/main.073c9b0a.css",
+    "main.js": "/copia22/static/js/main.8e6db4c6.js",
+    "static/js/787.cc4e593a.chunk.js": "/copia22/static/js/787.cc4e593a.chunk.js",
+    "static/media/logo.svg": "/copia22/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/copia22/index.html",
+    "main.073c9b0a.css.map": "/copia22/static/css/main.073c9b0a.css.map",
+    "main.8e6db4c6.js.map": "/copia22/static/js/main.8e6db4c6.js.map",
+    "787.cc4e593a.chunk.js.map": "/copia22/static/js/787.cc4e593a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8e6db4c6.js"
+  ]
+}
